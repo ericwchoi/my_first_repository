@@ -1,3 +1,3 @@
 This project is really, really super awesome. Mwahahah
 
-This project will help you learn about working with Git repositories.
+This project will really help you learn about working with Git repositories.
